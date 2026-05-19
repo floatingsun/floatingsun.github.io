@@ -1,11 +1,15 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
 ---
+
+<iframe
+  src="{{ '/assets/pdf/Qi_Sun_CV.pdf' | relative_url }}#view=FitH"
+  title="Qi Sun — Curriculum Vitae"
+  width="100%"
+  style="height: 85vh; min-height: 600px; border: 1px solid var(--global-divider-color); border-radius: 8px;"
+  loading="lazy">
+</iframe>

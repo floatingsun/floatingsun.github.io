@@ -1,0 +1,6 @@
+# Local preview overrides — NOT for production.
+# Use with: bundle exec jekyll serve --config _config.yml,_config_preview.yml
+# Disables ImageMagick responsive-image generation so a local preview
+# builds fast without needing the `convert` binary installed.
+imagemagick:
+  enabled: false
