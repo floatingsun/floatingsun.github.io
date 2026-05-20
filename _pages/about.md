@@ -28,7 +28,7 @@ latest_posts:
 
 Hi there! I'm Qi (pron. like "chee"), a PhD student at Science Tokyo, advised by [Prof. Rio Yokota](https://www.rio.gsic.titech.ac.jp/en/member/yokota.html), and I'm also a researcher at Sakana AI, where I work very closely with [Yujin Tang](https://lerrytang.github.io/).
 
-My research focuses on how to shape neural networks (mostly LLMs) into more complex and capable forms, toward the broader goal of better machine intelligence, built from collaborative and adaptive systems at scale.
+My research focuses on how to shape neural networks (mostly LLMs) into more complex and capable forms, built from collaborative and adaptive systems at scale, toward the broader goal of better machine intelligence.
 
 Some highlights:
 
