@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://qisun.net/sitemap.xml
+Sitemap: https://qisun.ai/sitemap.xml
