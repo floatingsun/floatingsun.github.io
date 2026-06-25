@@ -32,7 +32,7 @@ My research focuses on how to shape neural networks (mostly LLMs) into more comp
 
 Some highlights:
 
-- I'm a core builder of [Fugu](https://sakana.ai/fugu-beta/), Sakana AI's multi-agent system product.
+- I'm a core builder of [Fugu](https://x.com/SakanaAILabs/status/2068861630327443966), Sakana AI's multi-agent system product.
 - Introduced [Transformer²](https://github.com/SakanaAI/self-adaptive-llms), a framework for self-adaptive LLMs (1.2k+ GitHub 🌟).
 - Revealed a ['painter-like'](https://arxiv.org/abs/2407.09298) structure in transformer layers
 
