@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-15'
 papers:
   rv0MJuAAAAAJ:9yKSN-GCB0IC:
     citations: 10
@@ -14,11 +14,11 @@ papers:
     title: Learning to Orchestrate Agents in Natural Language with the Conductor
     year: '2025'
   rv0MJuAAAAAJ:UeHWp8X0CEIC:
-    citations: 54
+    citations: 55
     title: 'Transformer-Squared: Self-adaptive LLMs'
     year: '2025'
   rv0MJuAAAAAJ:W7OEmFMy1HYC:
-    citations: 55
+    citations: 56
     title: Towards robust agentic cuda kernel benchmarking, verification, and optimization
     year: '2025'
   rv0MJuAAAAAJ:YsMSGLbcyi4C:
@@ -34,11 +34,11 @@ papers:
     title: An evolved universal transformer memory
     year: '2025'
   rv0MJuAAAAAJ:u-x6o8ySG0sC:
-    citations: 282
+    citations: 283
     title: Evolutionary optimization of model merging recipes
     year: '2025'
   rv0MJuAAAAAJ:u5HHmVD_uO8C:
-    citations: 78
+    citations: 79
     title: Transformer layers as painters
     year: '2025'
   rv0MJuAAAAAJ:ufrVoPGSRksC:
