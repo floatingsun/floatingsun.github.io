@@ -13,7 +13,7 @@ profile:
   more_info: >
     <p>Me on Mount Fuji!</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # hides selected publications from the about page
 
 announcements:
   enabled: false # includes a list of news items
