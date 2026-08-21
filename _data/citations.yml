@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-21'
 papers:
   rv0MJuAAAAAJ:LkGwnXOMwfcC:
     citations: 4
@@ -34,7 +34,7 @@ papers:
     title: An evolved universal transformer memory
     year: '2025'
   rv0MJuAAAAAJ:u-x6o8ySG0sC:
-    citations: 313
+    citations: 314
     title: Evolutionary optimization of model merging recipes
     year: '2025'
   rv0MJuAAAAAJ:u5HHmVD_uO8C:
