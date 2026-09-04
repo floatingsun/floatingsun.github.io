@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-08-26'
+  last_updated: '2026-09-04'
 papers:
   rv0MJuAAAAAJ:LkGwnXOMwfcC:
     citations: 4
     title: 'Robin: a Suite of Multi-Scale Vision-Language Models and the CHIRP Evaluation Benchmark'
     year: '2025'
   rv0MJuAAAAAJ:Se3iqnhoufwC:
-    citations: 20
+    citations: 21
     title: 'Aurora-m: Open source continual pre-training for multilingual language and code'
     year: '2025'
   rv0MJuAAAAAJ:Tyk-4Ss8FVUC:
-    citations: 12
+    citations: 13
     title: Learning to orchestrate agents in natural language with the conductor
     year: '2026'
   rv0MJuAAAAAJ:UeHWp8X0CEIC:
@@ -18,7 +18,7 @@ papers:
     title: 'Transformer-Squared: Self-adaptive LLMs'
     year: '2025'
   rv0MJuAAAAAJ:W7OEmFMy1HYC:
-    citations: 67
+    citations: 70
     title: Towards robust agentic cuda kernel benchmarking, verification, and optimization
     year: '2025'
   rv0MJuAAAAAJ:YsMSGLbcyi4C:
@@ -34,11 +34,11 @@ papers:
     title: An evolved universal transformer memory
     year: '2025'
   rv0MJuAAAAAJ:u-x6o8ySG0sC:
-    citations: 315
+    citations: 319
     title: Evolutionary optimization of model merging recipes
     year: '2025'
   rv0MJuAAAAAJ:u5HHmVD_uO8C:
-    citations: 85
+    citations: 87
     title: Transformer layers as painters
     year: '2025'
   rv0MJuAAAAAJ:ufrVoPGSRksC:
@@ -46,6 +46,6 @@ papers:
     title: Sakana Fugu Technical Report
     year: '2026'
   rv0MJuAAAAAJ:zYLM7Y9cAGgC:
-    citations: 6
+    citations: 7
     title: 'Trinity: An evolved llm coordinator'
     year: '2026'
